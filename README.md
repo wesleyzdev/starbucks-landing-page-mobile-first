@@ -1,30 +1,50 @@
 ﻿☕ Starbucks Landing Page
+ 
 Landing page responsiva inspirada na Starbucks, desenvolvida com HTML5, CSS3 e JavaScript utilizando a metodologia Mobile First. O projeto foi criado com foco em proporcionar uma experiência moderna e intuitiva em diferentes dispositivos, adaptando-se perfeitamente a telas de celulares, tablets e desktops.
 
 Durante o desenvolvimento, foram aplicados conceitos fundamentais de front-end, como responsividade, Flexbox, navegação suave entre seções, menu hambúrguer para dispositivos móveis e organização de código. O objetivo do projeto foi praticar boas práticas de desenvolvimento web e aprimorar habilidades na criação de interfaces modernas e acessíveis.
 
 🚀 Tecnologias
-HTML5
-CSS3
-JavaScript
-Mobile First
+
+-HTML5
+
+-CSS3
+
+-JavaScript
+
+-Mobile First
+
 
 ✨ Funcionalidades
-Layout responsivo
-Navegação suave entre seções
-Menu mobile hambúrguer
-Design moderno inspirado na Starbucks
-Otimizado para diferentes tamanhos de tela
+
+-Layout responsivo
+
+-Navegação suave entre seções
+
+-Menu mobile hambúrguer
+
+-Design moderno inspirado na Starbucks
+
+-Otimizado para diferentes tamanhos de tela
+
 
 📚 Aprendizados
 Neste projeto foram praticados conceitos como:
+
 -Desenvolvimento Mobile First
+
 -Responsividade com CSS
+
 -Flexbox
+
 -Manipulação do DOM com JavaScript
+
 -Navegação por âncoras
+
 -Organização de arquivos e componentes
+
 -organização na estrutura do código
+
 -ui/ux designer
 
 🔗 Projeto Online
